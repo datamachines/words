@@ -7,5 +7,5 @@ Random pieces of useful text and links.
 
 
 ## Definitions
-yak shaving - Any seemingly pointless activity which is actually necessary to solve a problem which solves a problem which, several levels of recursion later, solves the real problem you're working on. [1](http://sethgodin.typepad.com/seths_blog/2005/03/dont_shave_that.html)  
+yak shaving - Any seemingly pointless activity which is actually necessary to solve a problem which solves a problem which, several levels of recursion later, solves the real problem you're working on. [Don't shave that yak!](http://sethgodin.typepad.com/seths_blog/2005/03/dont_shave_that.html)  
 

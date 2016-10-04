@@ -1,4 +1,4 @@
-You and your research  
+#You and your research  
 a stroke of genius: striving for greatness in all you do  
 by R.W. Hamming  
 

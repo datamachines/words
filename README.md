@@ -7,11 +7,11 @@ Random pieces of useful text and links.
 [Autonomic Computing](https://en.wikipedia.org/wiki/Autonomic_computing)  
 
 ## Books
-[Longitude](https://en.wikipedia.org/wiki/Longitude_(book))
-[Turing's Cathedral](https://www.amazon.com/Turings-Cathedral-Origins-Digital-Universe/dp/1400075998/)
-[Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365/)
-[War of Art](https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/)
-[Linchpin](https://www.amazon.com/Linchpin-Are-Indispensable-Seth-Godin/dp/1591844096)
+[Longitude](https://en.wikipedia.org/wiki/Longitude_(book))  
+[Turing's Cathedral](https://www.amazon.com/Turings-Cathedral-Origins-Digital-Universe/dp/1400075998/)  
+[Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365/)  
+[War of Art](https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/)  
+[Linchpin](https://www.amazon.com/Linchpin-Are-Indispensable-Seth-Godin/dp/1591844096)  
 
 
 ## Definitions

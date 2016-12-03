@@ -4,7 +4,8 @@ Random pieces of useful text and links.
 ## Links
 [Mother Earth Mother Board - Neal Stephenson](https://www.wired.com/1996/12/ffglass/)  
 [List of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
-[Autonomic Computing](https://en.wikipedia.org/wiki/Autonomic_computing)  
+[Autonomic Computing](https://en.wikipedia.org/wiki/Autonomic_computing)
+[Programmable Web: An Unfinished Work](http://www.morganclaypool.com/doi/pdf/10.2200/S00481ED1V01Y201302WBE005)
 
 ## Books
 [Longitude](https://en.wikipedia.org/wiki/Longitude_(book))  

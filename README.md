@@ -6,6 +6,7 @@ Random pieces of useful text and links.
 [List of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
 [Autonomic Computing](https://en.wikipedia.org/wiki/Autonomic_computing)  
 [Programmable Web: An Unfinished Work](http://www.morganclaypool.com/doi/pdf/10.2200/S00481ED1V01Y201302WBE005)  
+[Space Invaders - why never to use two spaces after a period](http://www.slate.com/articles/technology/technology/2011/01/space_invaders.html)  
 
 ## Books
 [Longitude](https://en.wikipedia.org/wiki/Longitude_(book))  
